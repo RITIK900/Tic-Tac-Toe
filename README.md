@@ -6,6 +6,6 @@ C file is compiled by GCC compiler...
 
 # How to Use Tic-Tac-Toe
 
-Step 1 - Download TicTacToe.c file.
-Step 2 - Compile with GCC compiler.
+Step 1 - Download TicTacToe.c file.  
+Step 2 - Compile with GCC compiler.  
 Step 3 - Now run .exe file. Enjoy the Game...
